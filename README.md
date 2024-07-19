@@ -1,3 +1,1 @@
-This is a kind of Microsoft Power BI Analysis project for analyse the road accident data.
-
-Speacial Note: Ongoing Project
+This is a kind of Microsoft Power BI Analysis project for analyse the User requirements and final user satisfaction feedbacks in DoItToday Task Manangement UI app Project. we used Microsoft Power BI Software to analyze the data.
